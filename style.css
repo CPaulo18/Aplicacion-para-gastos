@@ -1,0 +1,28 @@
+ body{
+    margin: 0;
+    padding: 0; 
+    background: #fff;
+}
+
+
+h1{
+    text-align: center;
+    padding: 30px;
+    color: #6C757D;
+}
+
+form{
+    background-color: #ccc;
+    padding: 15px;
+    border: 1px solid #C1D6CC;  
+    border-radius: 5px;
+}
+
+form div{
+  padding: 10px;
+}
+
+.form-control,
+.form-select{
+    background-color: #f2f2f2;
+}
